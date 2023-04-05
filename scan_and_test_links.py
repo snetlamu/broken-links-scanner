@@ -1,6 +1,6 @@
-import requests
 import datetime
 import sys
+import requests
 from selenium import webdriver
 from pyshadow.main import Shadow
 from webdriver_manager.chrome import ChromeDriverManager
